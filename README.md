@@ -1,6 +1,8 @@
 # YouTube Shorts Metadata Generator (Colab)
 ### Generate metadata (Title, Description, Tags) for your YouTube Shorts using the Gemini API in this Colab notebook.
 
+---
+
 # How to Use:
 ### Get API Key: Obtain a Gemini API key from Google AI Studio.
 ### Add API Key: Replace "YOUR_API_KEY" in the code with your key.
